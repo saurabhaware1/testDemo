@@ -1,3 +1,5 @@
 public static void Methodone(){
     //Demo purpose
+Account Acc = New Account();
+
 }
