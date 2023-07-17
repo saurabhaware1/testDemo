@@ -12,7 +12,8 @@ contact c = new contact();
 c.lastname = a.name; 
 }
 insert NA;
-}
+// We are making changes  
+}   //new change
 
 }
 
