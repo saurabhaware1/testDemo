@@ -1,0 +1,20 @@
+public class TestingClass{
+Account Acc;
+contact con; 
+public Static Void methodOne(){
+list<Account> NA = New list<Account>();
+Account a1 = new Account();
+a1.name = 'saurabh';
+NA.add(a1);
+if(!Na.isEmpty()){
+for(Account a:NA){
+contact c = new contact();
+c.lastname = a.name;
+}
+insert NA;
+// We are making changes 
+}
+
+}
+
+}
