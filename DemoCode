@@ -11,6 +11,7 @@ for(Account a:NA){
 contact c = new contact();
 c.lastname = a.name;
 }
+insert NA;
 }
 
 }
